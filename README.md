@@ -1,6 +1,6 @@
 # ULTIMATE PROTOTYPE BOARDS FOR FLIPPER ZERO
 
-![alt text](https://raw.githubusercontent.com/MakeItHackin/L33TBadge/main/images/dc31.jpg)
+![alt text](https://raw.githubusercontent.com/MakeItHackin/FlipperProtoBoards/main/images/p1.jpg)
 
 ## PURCHASE A KIT:
 https://www.tindie.com/products/31150/
