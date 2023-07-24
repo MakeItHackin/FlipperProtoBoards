@@ -2,7 +2,7 @@
 
 ![alt text](https://raw.githubusercontent.com/MakeItHackin/FlipperProtoBoards/main/images/p1.jpg)
 
-## PURCHASE A KIT:
+## PURCHASE:
 https://www.tindie.com/products/31150/
 
 ## YOUTUBE TUTORIAL / DEMONSTRATION: 
